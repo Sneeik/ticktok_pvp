@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @gMatas Sign out
-0
-0 0 gMatas/Random
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Random/TicToc/TicToc/grid.py
-071954a  on Dec 1, 2018
-@gMatas gMatas Add visualise_v2 method
-    
-79 lines (58 sloc)  1.8 KB
 from typing import List
 
 
@@ -93,16 +76,3 @@ print('Step 2')
 grid.grid_mat[0][2] = 'O'
 grid.visualise_v2()
 print()
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
