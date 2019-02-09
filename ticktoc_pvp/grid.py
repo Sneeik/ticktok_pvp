@@ -6,7 +6,6 @@ class Grid:
     def __init__(self):
         self.grid_mat = Grid.__initialise_grid_mat()
 
-
     def visualise(self) -> None:
         grid_mat_element_gen = self.__create_grid_mat_element_generator()
 
